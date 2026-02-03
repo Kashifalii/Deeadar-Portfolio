@@ -21,7 +21,6 @@ export const metadata: Metadata = {
     "Amazon FBA specialist with expertise in private label, wholesale, product research, listing optimization, and Amazon PPC. Helping businesses scale on Amazon.",
   keywords:
     "Amazon FBA, Private Label, Wholesale, Amazon Seller, E-commerce, PPC, Keyword Research",
-  author: "Deedar Ali",
   openGraph: {
     title: "Deedar Ali | Amazon FBA Expert",
     description:
